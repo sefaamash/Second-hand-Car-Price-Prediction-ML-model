@@ -1,0 +1,2 @@
+# Second-hand-Car-Price-Prediction-ML-model
+This repository includes Machine Learning model on second hand car price prediction fron cardekho.com I have used RandomForest Regressor as it is best one performing on this dataset . This repository includel model file which have all the implementation of model and other file is MODALUSAGE in which I have used the model i made by giving the features to predict the Price.
